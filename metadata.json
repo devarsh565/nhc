@@ -1,0 +1,6 @@
+{
+  "name": "National Housing Corporation",
+  "description": "An elegant, accessible corporate portal for the National Housing Corporation, featuring affordable housing search, scheduling tours, and an AI-powered FAQ and property inquiry chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
